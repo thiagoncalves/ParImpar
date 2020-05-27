@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Par_ou_Impar\bin\Debug\Par ou Impar.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Par_ou_Impar\bin\Debug\Par ou Impar.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Par_ou_Impar\bin\Debug\Par ou Impar.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Par_ou_Impar\obj\Debug\Par ou Impar.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Par_ou_Impar\obj\Debug\Par ou Impar.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Decisao\Par_ou_Impar\obj\Debug\Par ou Impar.pdb
